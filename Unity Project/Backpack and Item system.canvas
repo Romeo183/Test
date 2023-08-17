@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Backpack System","id":"1e1355eb05d9f8e8","x":-119,"y":-203,"width":299,"height":60},
+		{"type":"text","text":"# Item System","id":"9c804783e9df553f","x":240,"y":-203,"width":250,"height":60},
+		{"type":"text","text":"## Item : ScriptableObject\nstring Name\nEnum Class (consumable, equipment, resources...)\nSprite Image\nstring description\nboolean stackable\nfunction Use()\n\n","id":"d85c31546faf5b04","x":248,"y":-9,"width":552,"height":289},
+		{"id":"de33ca7b9a343bee","x":320,"y":404,"width":460,"height":256,"type":"text","text":"## behavior\n"}
+	],
+	"edges":[
+		{"id":"715dfbfc2ccdd824","fromNode":"9c804783e9df553f","fromSide":"bottom","toNode":"d85c31546faf5b04","toSide":"top"},
+		{"id":"5bdc1ed7d82d4255","fromNode":"d85c31546faf5b04","fromSide":"bottom","toNode":"de33ca7b9a343bee","toSide":"top"}
+	]
+}

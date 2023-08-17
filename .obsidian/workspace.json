@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "99c65bf50bcb5abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f91e70d8cce2aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761549a9b0e71faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83586cc93ac257ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "a18caa9e32d132a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8989639e73eb3ca8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "467d47cdd84d493c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d466b14b88e6bf20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "c49d94df6a024a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "f76245e5540c35c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e19b8b2c6c97d2db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24b54edd39386b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66156180e8db209a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9238982293f21887",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "761549a9b0e71faf",
+  "lastOpenFiles": [
+    "Unity Project/Backpack and Item system.canvas",
+    "Unity Project/Pixel Survival game.md",
+    "README.md",
+    "Need to learn/Platform/JavaEE/Java Enterprise Edition.md",
+    "Need to learn/Programming Language/Markdown/Markdown.md",
+    "Need to learn/Programming Language/Markdown/Tables (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Blockquotes (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Code Blocks (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Line Break (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Emphasis (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Images (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Links (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Comments (Markdown).md",
+    "Need to learn/Programming Language/Markdown/List (Markdown).md",
+    "Need to learn/Programming Language/Markdown/Headings (Markdown).md",
+    "Need to learn/Programming Language/Markdown/(image.md",
+    "(image.md",
+    "[.md",
+    "Need to learn/Programming Language/Markdown/未命名.canvas",
+    "about.md",
+    "Need to learn/Platform/JavaEE/WildFly（JBoss）.md",
+    "Need to learn/Platform/JavaEE/Tomcat.md",
+    "Need to learn/Platform/JavaEE/Servlet.md",
+    "Need to learn/Platform/JavaEE/jsp.md",
+    "Need to learn/Platform/JavaEE/Apache、Jboss和Tomcat是什麼關係.md",
+    "Need to learn/Platform/JavaEE/Apache.md",
+    "Need to learn/Platform/JavaEE",
+    "2023-08-14.md",
+    "Need to learn/Terminology/Open Source",
+    "Need to learn/Terminology/Markup Language",
+    "Need to learn/Programming Language/Markdown",
+    "Need to learn/Terminology/Architecture",
+    "Need to learn/Algorithm/Sorting Algorithm",
+    "Need to learn/Terminology/SDLC/SDLC_瀑布模型.png",
+    "Need to learn/Terminology/SDLC",
+    "Need to learn",
+    "Learning Websites",
+    "Need to learn/UNIX or Linux",
+    "未命名.canvas",
+    "Pasted image 20230808185337.png"
+  ]
+}
